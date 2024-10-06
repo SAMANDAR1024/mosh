@@ -1,0 +1,16 @@
+.table1{
+    background-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+ max-width: 1500px;
+
+ }
+ th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+ }
+ td{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+ }
