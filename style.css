@@ -23,3 +23,11 @@
     padding-bottom: 3px;
     padding-left: 20px;
  }
+@media (max-width:320px) {
+   .table1{
+      background-color: rgb(255, 255, 255);
+      border-collapse: collapse;
+   max-width: 320px;
+  
+   }
+}
